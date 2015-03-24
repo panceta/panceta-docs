@@ -1,2 +1,3 @@
 # panceta-docs
-Panceta project docs.
+
+Panceta is a social music experiment.
